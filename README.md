@@ -1,5 +1,5 @@
 # Directed-Research
-This repository contains all of the files and code I've used in my directed research work. 
+This repository contains all of the files and code I've used in my directed research and Master's Thesis work. 
 This doesn't contain the data files I've generated on the multiple I've used. 
 To work on the Java files, you would need to have the gradle package installed.
 Unfortunately, the currently folder is too large and contains too many files to upload to GitHub.
